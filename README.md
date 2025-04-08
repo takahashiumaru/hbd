@@ -64,4 +64,4 @@ To run this project, you will need to add the following environment variables to
 
 ## Example
 
-![alt text](https://github.com/takahashiumaru/hbd/blob/master/routes.png?raw=true)
+![routes](https://ibb.co.com/Kj6w9NZH)
