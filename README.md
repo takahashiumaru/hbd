@@ -73,5 +73,5 @@ To run this project, you will need to add the following environment variables to
 - Run your project after running search `banks`
 ![running](<running project.png>)
 
-- Run endpoint `validate/banks` to check whether the format in the `bank` entity is correct or not
+- Run endpoint `validate/banks` to check whether the format in the `bank` entity is correct (OK) or not (NOT OK)
 ![validate format](<validate format.png>)
