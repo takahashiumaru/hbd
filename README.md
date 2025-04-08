@@ -67,14 +67,11 @@ To run this project, you will need to add the following environment variables to
 - Add new route name to add new api example `banks`
 ![route](routes.png)
 
-
 - Create new file in `config_example` -> `entity` -> `banks` (use the same file name as the name of the route you created)
 ![service](services.png)
 
-
 - Run your project after running search `banks`
 ![running](<running project.png>)
-
 
 - Run endpoint `validate/banks` to check whether the format in the `bank` entity is correct (OK) or not (NOT OK)
 ![validate format](<validate format.png>)
