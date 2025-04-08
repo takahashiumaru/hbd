@@ -63,5 +63,15 @@ To run this project, you will need to add the following environment variables to
 - Continue to create an API configuration like the sample in flx_user, there is already a `GET` `POST` `PUT` `DELETE` `PATCH` `TRACE` method
 
 ## Example
-![alt text](routes.png)
-![alt text](services.png)
+
+![route](routes.png)
+- Add new route name to add new api example `banks`
+
+![service](services.png)
+- Create new file in `config_example` -> `entity` -> `banks` (use the same file name as the name of the route you created)
+
+![running](<running project.png>)
+- Run your project after running search `banks`
+
+![validate format](<validate format.png>)
+- Run endpoint `validate/banks` to check whether the format in the `bank` entity is correct or not
