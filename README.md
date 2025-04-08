@@ -63,5 +63,5 @@ To run this project, you will need to add the following environment variables to
 - Continue to create an API configuration like the sample in flx_user, there is already a `GET` `POST` `PUT` `DELETE` `PATCH` `TRACE` method
 
 ## Example
-
-![routes](https://ibb.co.com/Kj6w9NZH)
+![alt text](routes.png)
+![alt text](services.png)
