@@ -61,3 +61,7 @@ To run this project, you will need to add the following environment variables to
 - Then create an API configuration in `config_example` -> `entity` -> create a file like the name in the list in the routes.json file
 
 - Continue to create an API configuration like the sample in flx_user, there is already a `GET` `POST` `PUT` `DELETE` `PATCH` `TRACE` method
+
+## Example
+
+![alt text](https://github.com/takahashiumaru/hbd/blob/master/routes.png?raw=true)
